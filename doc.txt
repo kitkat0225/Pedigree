@@ -3,4 +3,3 @@ https://drive.google.com/drive/folders/1yC2JlpdbfXQYeZEnuYuOCfTWf8pHOsf3?usp=sha
 
 2. Deployed
 https://pedigreeportal.azurewebsites.net/
-
